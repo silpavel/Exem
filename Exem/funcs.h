@@ -4,5 +4,5 @@
 //return reverse string
 char* reverse(const char*);
 void reverseIt(char*);
-int lossNumber(int);
+int lossNumber(int*, int);
 #endif FUNCS_H
